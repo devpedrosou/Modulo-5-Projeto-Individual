@@ -1,4 +1,4 @@
-# Projeto Individual, Módulo 5, Resilia.
+# Projeto Individual, Módulo 5, Facilitando a vida.
 
 <h2>Neste projeto, utilizei somente a linguagem: <p></h2>
 
